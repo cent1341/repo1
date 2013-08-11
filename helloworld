@@ -1,3 +1,9 @@
 Manocha ji ki jai 
 chaapu madarchod hai
 
+
+for (i=0;i<100;i++)
+{
+printf("%d"i);
+}
+
